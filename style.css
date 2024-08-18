@@ -134,7 +134,7 @@ nav h4:hover::after {
     background-position: center; 
     background-repeat: no-repeat;
     margin-left: 95px;
-    filter: drop-shadow(3px 4px 20px rgb(207, 207, 240));
+   
 
     
 }
@@ -147,16 +147,18 @@ nav h4:hover::after {
     background-repeat: no-repeat;
     margin-left: 95px;
     margin-top: 30px;
-    filter: drop-shadow(3px 4px 20px rgb(207, 207, 240));
+   
 
 }
 .col11:hover{
     transform: scale(1.05); 
     transition: transform 0.3s ease-in-out;
+    filter: drop-shadow(3px 4px 20px rgb(207, 207, 240));
 }
 .col12:hover{
     transform: scale(1.05); 
     transition: transform 0.3s ease-in-out;
+    filter: drop-shadow(3px 4px 20px rgb(207, 207, 240));
 }
 .col11 h3{
     color: white;
